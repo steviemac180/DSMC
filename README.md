@@ -1,4 +1,4 @@
 # DSMC
 DSMC work
 
-Data science mega course bundke repository
+Data science mega course bundle repository
